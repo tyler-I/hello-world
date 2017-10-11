@@ -15,3 +15,5 @@ For questions and/or concerns contact me at ingham_tyler@yahoo.com
 10/10/17 - Update README
 
 10/10/17 - Add Simple Calculator
+
+10/11/17 - Add Console TicTacToe
